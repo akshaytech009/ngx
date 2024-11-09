@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "ngx-connection-service": "^17.0.1",
+    "react-toastify": "^10.0.6",
+    "ssr-window": "^4.0.2"
+  }
+}
